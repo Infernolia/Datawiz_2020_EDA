@@ -1,5 +1,7 @@
 # EDA_Datawiz_2020 <BR>
 <H1>Task 1 of Learning ML in DataWiz</H1><BR>
+<H2>Perform exploratory data analysis on students performance dataset. Plus points for good preprocessing :)</H2>
+<H2>Mentors: Aboli Marathe and Ayush Das</H2><BR>
 <H3>Contributors:</H3><BR>
 1. Rohit James<BR>
 2. Srujana<BR>
