@@ -1,4 +1,4 @@
-# EDA_Datawiz_2020 <BR>
+# Datawiz_2020_EDA <BR>
 <H1>Task 1 of Learning ML in DataWiz</H1><BR>
 <H2>Perform exploratory data analysis on  <a href="https://www.kaggle.com/spscientist/students-performance-in-exams">students performance dataset</a>. Plus points for good preprocessing :)</H2>
 <H2>Mentors: Aboli Marathe and Ayush Das</H2><BR>
