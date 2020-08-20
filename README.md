@@ -9,7 +9,7 @@
 4. Tanuj & Pushkar<BR>
 5. Siddharth Bora<BR>
 6. Rohit Patil<BR>
-7. Shrikrishna<BR>
+7. Shrikrushna Zirape<BR>
 8. Shreya Pujari<BR>
 9. Anurag Kelkar<BR>
 10. Rohan Khole<BR>
